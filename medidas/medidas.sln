@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medidas", "medidas\medidas.csproj", "{A53FE3F8-450A-481D-8AC1-611916F35B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53FE3F8-450A-481D-8AC1-611916F35B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53FE3F8-450A-481D-8AC1-611916F35B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53FE3F8-450A-481D-8AC1-611916F35B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53FE3F8-450A-481D-8AC1-611916F35B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1531C8-F6BC-4F75-97F3-4DFCBC26E999}
+	EndGlobalSection
+EndGlobal

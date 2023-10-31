@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media_ponderada", "media_ponderada\media_ponderada.csproj", "{A29E6051-3AF0-4F4B-8C91-7D030E5C9C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29E6051-3AF0-4F4B-8C91-7D030E5C9C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29E6051-3AF0-4F4B-8C91-7D030E5C9C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29E6051-3AF0-4F4B-8C91-7D030E5C9C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29E6051-3AF0-4F4B-8C91-7D030E5C9C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAEACB0D-BF0E-478E-BB68-9BBD93B093C0}
+	EndGlobalSection
+EndGlobal

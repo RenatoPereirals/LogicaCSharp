@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idades", "idades\idades.csproj", "{9CFC3FAD-0A83-41F5-82AA-2470674FA45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFC3FAD-0A83-41F5-82AA-2470674FA45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFC3FAD-0A83-41F5-82AA-2470674FA45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFC3FAD-0A83-41F5-82AA-2470674FA45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFC3FAD-0A83-41F5-82AA-2470674FA45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458B4193-29D2-4CAB-B7E6-B1CB530EBD44}
+	EndGlobalSection
+EndGlobal
